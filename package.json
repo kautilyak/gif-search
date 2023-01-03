@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://kautilyak.github.io/gif-search",
   "devDependencies": {
-    "react-scripts": "0.8.5"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "gh-pages": "^2.2.0",
